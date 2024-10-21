@@ -12,7 +12,7 @@ Attack Phase Group Assignment
 This document outlines the steps we took to complete the attack phase of the eCTF competition. We were tasked with exploiting the vulnerabilities in the insecure eCTF example code. We successfully exploited the vulnerabilities and gained control of the device. We found that CA had a secure bootloader but UTArlington had leaking information exposing the flag. We also found that the UTArlington device had a buffer overflow vulnerability.
 
 ## Team Members
-- [Luciano] (Architect)
+- [Luciano] (Architect and Lead-Developer)
 - [Hadise] (Team Lead)
-- [Merve] (Lead Developer and Investigator)
+- [Merve] (Co-Developer and Investigator)
 - [Maryam] (Documenter)
